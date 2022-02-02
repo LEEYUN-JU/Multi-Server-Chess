@@ -1,0 +1,7 @@
+C:\Users\eyunj\source\repos\MultiServer_Chess\bin\Debug\MultiServer_Chess.exe.config
+C:\Users\eyunj\source\repos\MultiServer_Chess\bin\Debug\MultiServer_Chess.exe
+C:\Users\eyunj\source\repos\MultiServer_Chess\bin\Debug\MultiServer_Chess.pdb
+C:\Users\eyunj\source\repos\MultiServer_Chess\obj\Debug\MultiServer_Chess.csproj.CoreCompileInputs.cache
+C:\Users\eyunj\source\repos\MultiServer_Chess\obj\Debug\MultiServer_Chess.exe
+C:\Users\eyunj\source\repos\MultiServer_Chess\obj\Debug\MultiServer_Chess.pdb
+C:\Users\eyunj\source\repos\MultiServer_Chess\obj\Debug\MultiServer_Chess.csprojAssemblyReference.cache
